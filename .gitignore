@@ -1,0 +1,8 @@
+# vim
+.*.swp
+
+#files
+batch
+
+#virtual enviroment
+venv
