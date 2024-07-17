@@ -1,4 +1,7 @@
-# LaCyTools
+# LaCyTools mod 
+
+This is a LaCyTools modification updated from the original code written in python 2.7 to 3.8. This code introduces a small fix and some addons for the source LaCyTools codebase. 
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/84d61117770f4f5782a1decfed54b9cb)](https://www.codacy.com/gh/Tarskin/LaCyTools/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Tarskin/LaCyTools&amp;utm_campaign=Badge_Grade)
 
 LaCyTools is open-source software for researcher focussing on chromatgraphy coupled to mass spectrometry. It includes modules for retention time and m/z calibration, peak integration, quality control and more. The tool was first described in a 2016 Journal of Proteome Research article, located at https://pubs.acs.org/doi/10.1021/acs.jproteome.6b00171
